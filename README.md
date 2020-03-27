@@ -1,2 +1,5 @@
-test ![Picture](rhomboid.png)
+test
+
+[![Picture](rhomboid.png)](secondpage.md)
+
 [Second Page](secondpage.md)
